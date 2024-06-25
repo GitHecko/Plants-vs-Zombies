@@ -1,4 +1,10 @@
+Collabrators:
+MahmoudAboheif
+ToqaHossam
+
+
 For correct resolutions please use 1920x1080 and set scale to 100%
+
 
 Controls for playing:
 
